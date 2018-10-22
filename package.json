@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "waterline-blob@0.0.9",
+      "/home/juliotorres/htdocs/sails-local-fs"
+    ]
+  ],
+  "_from": "waterline-blob@0.0.9",
+  "_id": "waterline-blob@0.0.9",
+  "_inBundle": false,
+  "_integrity": "sha1-P88CVdKosxMzh7mvUOrOH2M+wzY=",
+  "_location": "/waterline-blob",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "waterline-blob@0.0.9",
+    "name": "waterline-blob",
+    "escapedName": "waterline-blob",
+    "rawSpec": "0.0.9",
+    "saveSpec": null,
+    "fetchSpec": "0.0.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/waterline-blob/-/waterline-blob-0.0.9.tgz",
+  "_spec": "0.0.9",
+  "_where": "/home/juliotorres/htdocs/sails-local-fs",
+  "author": {
+    "name": "Mike McNeil"
+  },
+  "bugs": {
+    "url": "https://github.com/balderdashy/waterline-blob/issues"
+  },
+  "dependencies": {
+    "archiver": "~0.4.10",
+    "lodash": "^4.17.11",
+    "mime": "^2.3.1"
+  },
+  "description": "Generic helper logic for building a waterline/sails blob adapter",
+  "homepage": "https://github.com/balderdashy/waterline-blob#readme",
+  "keywords": [
+    "blob",
+    "waterline",
+    "sails",
+    "adapter",
+    "custom"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "waterline-blob",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balderdashy/waterline-blob.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.9"
+}
